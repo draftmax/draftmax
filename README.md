@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @draftmax
+- 👀 I’m interested in PHP, Golang, Rust development
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me @maxime@mastodon.mdelaunay.fr on Mastodon
